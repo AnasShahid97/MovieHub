@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/ic_home_black"
+            android:title="@string/homeText" />
+        <item
+            android:id="@+id/signIn_createAccount"
+            android:icon="@drawable/ic_account_box"
+            android:title="@string/signInRegisterText" />
+
+        <item android:id="@+id/specialVideos"
+            android:icon="@drawable/ic_special_videos"
+            android:title="@string/specialVideos"
+            />
+        <item android:id="@+id/genre"
+            android:icon="@drawable/ic_videos_genre"
+            android:title="@string/addGenre"
+            />
+    </group>
+</menu>

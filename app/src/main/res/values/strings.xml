@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">MovieHub</string>
+    <string name="signIn_text">Sign In as</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="accountType">Account type:</string>
+    <string name="premiumAccount">Premium</string>
+    <string name="premiumUser">Premium User</string>
+    <string name="basicAccount">Basic</string>
+    <string name="basicUser">Basic User</string>
+    <string name="homeText">Home</string>
+    <string name="signInRegisterText">Sign In/Register</string>
+    <string name="specialVideos">Special Videos</string>
+    <string name="addGenre">Add Genre</string>
+    <string name="fullNameText">Full Name</string>
+    <string name="emailText">Email</string>
+    <string name="passwordText">Password</string>
+    <string name="confirmPasswordText">Confirm Password</string>
+    <string name="registerText">Register As:</string>
+    <string name="viewerText">Viewer</string>
+    <string name="uploaderText">Uploader</string>
+    <string name="imgDescription">Image</string>
+    <string name="registerBtnText">Register</string>
+    <string name="signInBtnText">Sign In</string>
+    <string name="needAccountText">Don\'t have an account?</string>
+    <string name="haveAccountText">Already have an account?</string>
+    <string name="createAccountText">Create Account</string>
+    <string name="chooseGenreText">Choose Genre</string>
+
+
 </resources>
