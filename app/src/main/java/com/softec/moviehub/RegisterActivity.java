@@ -134,8 +134,6 @@ public class RegisterActivity extends AppCompatActivity {
             public void onClick(DialogInterface dialog, int which, boolean isChecked) {
                 if(isChecked){
                     itemsSelected.add(which);
-               String value = itemsSelected.get(which).toString();
-               Toast.makeText(RegisterActivity.this, value, Toast.LENGTH_LONG).show();
                 }
                 else if(itemsSelected.contains(which)){
                     itemsSelected.remove(Integer.valueOf(which));
