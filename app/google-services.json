@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "821883658298",
+    "firebase_url": "https://moviehub-1c165.firebaseio.com",
+    "project_id": "moviehub-1c165",
+    "storage_bucket": "moviehub-1c165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821883658298:android:1f615613c137f725",
+        "android_client_info": {
+          "package_name": "com.softec.moviehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821883658298-nvh99fdm6etv2jk2oafn7ndaa0hr8hu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softec.moviehub",
+            "certificate_hash": "4e08e3d2b7d40ac5017118073283e13d68b07a9b"
+          }
+        },
+        {
+          "client_id": "821883658298-qleu86fpno4662knpqbdnud7cg3id3cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softec.moviehub",
+            "certificate_hash": "2da33adce7c55b56e1840ef2cb3212f4dbcfe704"
+          }
+        },
+        {
+          "client_id": "821883658298-k921lmi445ffbcpftas4928ljmq93m9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3RhKCz31X4yHzGMlaFMs0haBmaSq9yu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821883658298-k921lmi445ffbcpftas4928ljmq93m9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
